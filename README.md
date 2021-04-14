@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm a first year student at Carleton University in Ottawa.
+Hi, I'm a first year computer science student at Carleton University in Ottawa.
 
 ## Stuff
 
