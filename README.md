@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm a second year computer science student at Carleton University in Ottawa. Read more [on my website](https://MichaelMBradley.github.io/about/).
+Hi, I'm a second year computer science student at Carleton University in Ottawa.
 
 ## Stuff
 
