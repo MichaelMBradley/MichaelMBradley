@@ -1,5 +1,3 @@
-# Michael Bradley
+# About Me
 
-## About Me
-
-Hi, I'm a computer science student who's just finished my second year at Carleton University in Ottawa.
+I'm a computer science student who's just finished my second year at Carleton University in Ottawa.
